@@ -1,0 +1,21 @@
+#################################################################
+#
+# Yascrewed Config: All data is in key = value pairs.  Spacing
+#                   around data or key begining and end is 
+#                   ignored, and # is treated as a comment
+#
+#################################################################
+chat_server = cs6.chat.yahoo.com
+#initial_room = Linux, Freebsd, Solaris:1
+initial_room = linux, freebsd, solaris:1
+### Avoid changinging anything below this line
+ignore_file = ignore
+
+### Color configuration
+pm_color = green
+own_color = cyan
+text_color = lightgoldenrod
+emote_color = limegreen
+enter_color = grey
+exit_color = cyan4
+friend_color = skyblue
