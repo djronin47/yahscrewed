@@ -4,7 +4,7 @@ use IO::Socket;
 my $VersionN = "Yahscrewed v0.666.666 (Hellish Chaos version)";
 
 $uname=;
-$passwd=";
+$passwd=;
 
 #---------------------------------------
 
